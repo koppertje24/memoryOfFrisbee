@@ -1,7 +1,7 @@
 {
 "companyName": "A.Koppers",
 "productName": "Memories of frisbee",
-"productVersion": "1.1",
+"productVersion": "1.1.1",
 "dataUrl": "offline.data.unityweb",
 "wasmCodeUrl": "offline.wasm.code.unityweb",
 "wasmFrameworkUrl": "offline.wasm.framework.unityweb",
